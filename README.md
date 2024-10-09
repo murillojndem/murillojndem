@@ -2,7 +2,7 @@
 
 ---
 
-I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My experience spans multiple impactful projects in roles ranging from backend to full-stack developer positions at companies such as ITECSA and TOTVS.
+I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My experience spans multiple impactful projects in roles ranging from backend to full-stack developer positions at companies such as Benner and TOTVS.
 
 ### :1st_place_medal: Proficient in:
 ![C#](https://skillicons.dev/icons?i=cs)&nbsp;&nbsp;
