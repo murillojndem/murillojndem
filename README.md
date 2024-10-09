@@ -4,11 +4,13 @@
 
 I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My experience spans multiple impactful projects in roles ranging from backend to full-stack developer positions at companies such as ITECSA and TOTVS.
 
-### 🚀 What I'm Learning:
+### :1st_place_medal: Proficiente in:
 ![C#](https://skillicons.dev/icons?i=cs)&nbsp;&nbsp;
 ![.NET](https://skillicons.dev/icons?i=dotnet)&nbsp;&nbsp;
 ![Java](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;
 ![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
+
+### 🚀 What I'm Learning:
 ![Typescript](https://skillicons.dev/icons?i=ts)&nbsp;&nbsp;
 ![Vue](https://skillicons.dev/icons?i=vue)&nbsp;&nbsp;
 ![AWS](https://skillicons.dev/icons?i=aws)&nbsp;&nbsp;
