@@ -4,7 +4,7 @@
 
 I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My experience spans multiple impactful projects in roles ranging from backend to full-stack developer positions at companies such as ITECSA and TOTVS.
 
-### :1st_place_medal: Proficiente in:
+### :1st_place_medal: Proficient in:
 ![C#](https://skillicons.dev/icons?i=cs)&nbsp;&nbsp;
 ![.NET](https://skillicons.dev/icons?i=dotnet)&nbsp;&nbsp;
 ![Java](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;
@@ -26,8 +26,8 @@ I'm currently deepening my expertise in full-stack development with a focus on .
 - **Unified Management System at ITECSA**: Spearheaded the development of integrated systems to connect various Unimed management tools, working extensively with C#, .NET, and RESTful APIs.
 
 ### 📫 How to Reach Me:
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/murillojndem/)
-- **Email**: [Your Email](mailto:murillojndem@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/murillojndem/)
+- [**Email**](mailto:murillojndem@gmail.com)
 
 ---
 
