@@ -1,26 +1,30 @@
-# Olá, Techs! Ótimo ver vocês aqui. 💜
+# Hi, Developers! Welcome to My Profile! 💻
 
-![Murillo's Tech Banner](https://raw.githubusercontent.com/yourgithubusername/yourrepository/master/image/your-banner.png) <!-- Substitua com o link da sua imagem -->
+---
 
-### 🚀 Sobre Mim
-Sou Murillo Jorge Nóbrega de Melo, desenvolvedor de software full-stack, com sólida experiência em tecnologias como .NET, C#, e Java. Atualmente, estou focando em aprimorar minhas habilidades em sistemas de gerenciamento de banco de dados e tecnologias de nuvem, buscando integrar soluções inovadoras que melhorem a eficiência e a escalabilidade das aplicações empresariais.
+I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My experience spans multiple impactful projects in roles ranging from internships to full-stack developer positions at companies such as ITECSA and TOTVS.
 
-### 🔧 Ferramentas e Tecnologias:
-- **Linguagens de Programação:** C#, Java, JavaScript
-- **Frameworks:** .NET, Spring, Angular
-- **Bancos de Dados:** SQL Server, MySQL, Oracle
-- **Ferramentas:** Visual Studio, Git
+### 🚀 What I'm Learning:
+![C#](https://skillicons.dev/icons?i=cs)&nbsp;&nbsp;
+![.NET](https://skillicons.dev/icons?i=dotnet)&nbsp;&nbsp;
+![Java](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;
+![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
+![Angular](https://skillicons.dev/icons?i=angular)&nbsp;&nbsp;
 
-### 🌱 Estou aprendendo:
-- **Tecnologias de Nuvem** para aprimorar minha habilidade em trabalhar com sistemas distribuídos e escaláveis.
-- **Avanços no Framework .NET** para manter minha expertise técnica atualizada.
+### 🔧 Tools and Technologies:
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)&nbsp;&nbsp;
+![Git](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
+![SQL Server](https://skillicons.dev/icons?i=mssql)&nbsp;&nbsp;
+![MySQL](https://skillicons.dev/icons?i=mysql)&nbsp;&nbsp;
 
-### 📈 Projetos e Iniciativas:
-- **Sistema de Gerenciamento Unificado:** Lidero o desenvolvimento de um sistema que integra diversas ferramentas de gestão, resultando em melhorias significativas na operacionalidade e na colaboração interdepartamental.
-- **Mentoria e Desenvolvimento de Carreira:** Ofereço orientação para desenvolvedores iniciantes, compartilhando conhecimentos sobre desenvolvimento de software, melhores práticas e preparação para o mercado de trabalho.
+### 🌟 Projects and Initiatives:
+- **Unified Management System at ITECSA**: Spearheaded the development of integrated systems to connect various Unimed management tools, working extensively with C#, .NET, and RESTful APIs.
+- **School Management Software at PONTO ID**: Developed both backend and frontend components, utilizing ASP.NET and Entity Framework, which enhanced operational efficiencies and user experience.
 
-### 📫 Como me contatar:
-Fique à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/murillojndemelo/) ou enviar um [email](mailto:your.email@example.com).
+### 📫 How to Reach Me:
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com)
+- **Email**: [Your Email](mailto:your.email@example.com)
 
-![Contador de Visitantes](https://profile-counter.glitch.me/yourgithubusername/count.svg)
+---
 
+Don't hesitate to contact me!
