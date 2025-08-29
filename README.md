@@ -33,4 +33,4 @@ I'm currently deepening my expertise in full-stack development with a focus on .
 
 Don't hesitate to contact me!
 
-![Visitor Count](https://profile-counter.glitch.me/{your-github-username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/murillojndem/count.svg)
