@@ -2,7 +2,7 @@
 
 ---
 
-I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My experience spans multiple impactful projects in roles ranging from backend to full-stack developer positions at companies such as Benner and TOTVS.
+I'm currently deepening my expertise in full-stack development with a focus on .NET technologies, alongside broadening my proficiency in a variety of other programming languages and frameworks. My [...] 
 
 ### :1st_place_medal: Proficient in:
 ![C#](https://skillicons.dev/icons?i=cs)&nbsp;&nbsp;
@@ -33,4 +33,4 @@ I'm currently deepening my expertise in full-stack development with a focus on .
 
 Don't hesitate to contact me!
 
-![Visitor Count](https://profile-counter.glitch.me/{your-github-username}/count.svg)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmurillojndem&title=Visitor%20Count)
