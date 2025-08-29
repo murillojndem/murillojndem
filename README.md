@@ -32,4 +32,4 @@ I'm currently deepening my expertise in full-stack development with a focus on .
 ---
 
 Don't hesitate to contact me!
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=murillojndem.murillojndem)
+![Visitor Count](https://count.getloli.com/get/@murillojndem?theme=simple)
