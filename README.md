@@ -32,14 +32,5 @@ I'm currently deepening my expertise in full-stack development with a focus on .
 ---
 
 Don't hesitate to contact me!
-![Visitor Count - simple](https://count.getloli.com/get/@murillojndem?theme=simple)
-![Visitor Count - rule34](https://count.getloli.com/get/@murillojndem?theme=rule34)
-![Visitor Count - classic](https://count.getloli.com/get/@murillojndem?theme=classic)
-![Visitor Count - colorful](https://count.getloli.com/get/@murillojndem?theme=colorful)
-![Visitor Count - gelbooru](https://count.getloli.com/get/@murillojndem?theme=gelbooru)
-![Visitor Count - moebooru](https://count.getloli.com/get/@murillojndem?theme=moebooru)
-![Visitor Count - yuri](https://count.getloli.com/get/@murillojndem?theme=yuri)
-![Visitor Count - pure](https://count.getloli.com/get/@murillojndem?theme=pure)
-![Visitor Count - sakura](https://count.getloli.com/get/@murillojndem?theme=sakura)
-![Visitor Count - nico](https://count.getloli.com/get/@murillojndem?theme=nico)
-![Visitor Count - normal](https://count.getloli.com/get/@murillojndem?theme=normal)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=murillojndem.murillojndem)
