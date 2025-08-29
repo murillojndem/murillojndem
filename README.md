@@ -34,3 +34,8 @@ I'm currently deepening my expertise in full-stack development with a focus on .
 Don't hesitate to contact me!
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmurillojndem&title=Visitor%20Count)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=murillojndem.murillojndem)
+
+![Visitor Count](https://count.getloli.com/get/@murillojndem?theme=rule34)
+
+![yacounter](https://yacounter.ru/count/murillojndem.svg)
