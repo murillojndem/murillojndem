@@ -12,7 +12,7 @@ I build production systems with strong domain modeling, security-first design, a
 - Secure authentication flows (JWT, hashing, rate limiting)  
 - Containerized deployments with Docker & Nginx  
 - Distributed system patterns (in progress)  
-- AI as an architectural component, not just an API call  
+- AI as an architectural component.
 
 ---
 
